@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m Tuhin and I Current Tech Intern for CFBL<br>
+👋 Hi, I’m Tuhin and I am currently a Tech Intern for CFBL<br>
 👀 I’m interested in Computer Science<br>
 🌱 I’m currently doing my BSC in Computer Science<br>
 📫 How to reach me is Linkden: www.linkedin.com/in/tuhinshaikhh<br>
